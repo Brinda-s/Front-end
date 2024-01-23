@@ -1,0 +1,47 @@
+/* Styles for menu */
+
+.menu {
+    width: 80%;
+    background-color: burlywood;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .menu h1, h2 {
+    text-align: center; 
+  }
+  
+  .established {
+    text-align: center;
+  }
+  
+  /* Styles for menu items */
+  
+  .item p {
+    display: inline-block;
+    margin: 5px 0;
+  }
+  
+  .flavor {
+    text-align: left;
+    width: 75%;
+  }
+  
+  .price {
+    text-align: right;
+    width: 25%
+  }
+  
+  /* Styles for footer */
+  
+  footer {
+    text-align: center;
+  }
+  
+  .address {
+    font-style: italic;
+  }
+  
+  .bottom-line {
+    margin-top: 25px;
+  }
